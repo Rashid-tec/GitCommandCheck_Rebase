@@ -19,5 +19,9 @@ public class MathmaticallOperation {
 	{
 		return a*b;
 	}
+	public void divide()
+	{
+		System.out.println("Divide value =");
+	}
 
 }
